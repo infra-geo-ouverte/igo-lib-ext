@@ -1,5 +1,3 @@
- VERSION BÊTA
-
 # Infrastructure Géomatique Ouverte (IGO) / Open GIS Infrastructure
 
 ### Qu'est-ce qu'IGO ?
