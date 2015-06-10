@@ -59,7 +59,7 @@ $ vagrant plugin install vagrant-r10k
 
 #### Démarrage
 
-À la racine de votre dépôt git (où se trouve le fichier Vagrantfile), exécutez la commande suivante:
+À la racine de votre dépôt git (où se trouve le fichier Vagrantfile, soit  [dans le dépôt igo : https://github.com/infra-geo-ouverte/igo](https://github.com/infra-geo-ouverte/igo)), exécutez la commande suivante:
 
 ```sh
 $ vagrant up
@@ -96,7 +96,7 @@ $ vagrant plugin install vagrant-r10k
 
 #### Start-Up
 
-At the root of your git repository (where is the Vagrantfile), enter following command:
+At the root of your git repository (where is the Vagrantfile,  [see in this repository : : https://github.com/infra-geo-ouverte/igo](https://github.com/infra-geo-ouverte/igo)), enter following command:
 
 ```sh
 $ vagrant up
