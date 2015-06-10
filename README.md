@@ -1,4 +1,4 @@
-# Infrastructure géomatique ouverte (IGO) / Open GIS Infrastructure
+# Infrastructure géomatique ouverte (IGO) - Librairies / Open GIS Infrastructure - Librairies
 ***
 
 ### Qu'est-ce qu'[IGO](http://igouverte.org/)?
