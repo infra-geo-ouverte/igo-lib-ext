@@ -1,0 +1,14 @@
+{
+  "name": "togpx",
+  "homepage": "https://github.com/tyrasd/togpx",
+  "version": "0.3.1",
+  "_release": "0.3.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.3.1",
+    "commit": "0f2b7b3f45a0cfdd4899fd93b72a826cf3476b5f"
+  },
+  "_source": "git@github.com:tyrasd/togpx.git",
+  "_target": "0.3.1",
+  "_originalSource": "git@github.com:tyrasd/togpx.git"
+}

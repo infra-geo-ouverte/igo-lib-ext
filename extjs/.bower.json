@@ -1,0 +1,13 @@
+{
+  "name": "extjs",
+  "_cacheHeaders": {
+    "ETag": "\"515caa48-12af3aa\"",
+    "Last-Modified": "Wed, 03 Apr 2013 22:16:40 GMT",
+    "Content-Length": "19592106",
+    "Content-Type": "application/zip"
+  },
+  "_release": "e-tag:515caa48-",
+  "_source": "http://cdn.sencha.com/ext/gpl/ext-3.4.1.1-gpl.zip",
+  "_target": "*",
+  "_originalSource": "http://cdn.sencha.com/ext/gpl/ext-3.4.1.1-gpl.zip"
+}
