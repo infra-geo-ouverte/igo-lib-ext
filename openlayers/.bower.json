@@ -1,0 +1,13 @@
+{
+  "name": "openlayers",
+  "homepage": "https://github.com/openlayers/openlayers",
+  "_release": "release-2.13",
+  "_resolution": {
+    "type": "tag",
+    "tag": "release-2.13",
+    "commit": "c8d4105d230db50678cdbac2d7915b44adb71a23"
+  },
+  "_source": "git@github.com:openlayers/openlayers.git",
+  "_target": "release-2.13",
+  "_originalSource": "git@github.com:openlayers/openlayers.git"
+}
