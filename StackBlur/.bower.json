@@ -1,0 +1,12 @@
+{
+  "name": "StackBlur",
+  "_cacheHeaders": {
+    "Last-Modified": "Mon, 22 Jun 2015 00:05:17 GMT",
+    "Content-Length": "4039",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "main": "index.js",
+  "_source": "http://canvg.github.io/canvg/StackBlur.js",
+  "_target": "*",
+  "_originalSource": "http://canvg.github.io/canvg/StackBlur.js"
+}
